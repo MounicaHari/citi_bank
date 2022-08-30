@@ -1,3 +1,6 @@
 spring:
 	application:
 		name: citi-bank-app
+
+server:
+	name :citi_bank
